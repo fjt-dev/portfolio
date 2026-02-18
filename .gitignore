@@ -39,7 +39,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-#lang
-components/ui/* linguist-vendored
-app/globals.css linguist-vendored
