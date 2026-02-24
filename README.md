@@ -21,7 +21,6 @@ https://fjtd.dev
 ### Styling/ui
 
 - Tailwind CSS 4
-- Radix UI (https://www.radix-ui.com/)
 - shadcn/ui (http://ui.shadcn.com/)
 
 ### logo(icon)
