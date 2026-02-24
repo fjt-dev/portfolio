@@ -37,24 +37,23 @@ https://fjtd.dev
 ## File structure
 
 ```
-.
-└── portfolio/
-    ├── app/
-    │   ├── global.css
-    │   ├── layout.tsx
-    │   └── page.tsx
-    ├── components/
-    │   ├── ui/
-    │   │   └── button.tsx
-    │   └── social-links.tsx
-    ├── lib/
-    │   └── utils.ts
-    └── public/
-        ├── apple-touch-icon.png
-        ├── favicon-96x96.png
-        ├── favicon.ico
-        ├── favicon.svg
-        ├── site.webmanifest
-        ├── web-app-manifest-192x192.png
-        └── web-app-manifest-512x512.png
+portfolio/
+├── app/
+│   ├── global.css
+│   ├── layout.tsx
+│   └── page.tsx
+├── components/
+│   ├── ui/
+│   │   └── button.tsx
+│   └── social-links.tsx
+├── lib/
+│   └── utils.ts
+└── public/
+    ├── apple-touch-icon.png
+    ├── favicon-96x96.png
+    ├── favicon.ico
+    ├── favicon.svg
+    ├── site.webmanifest
+    ├── web-app-manifest-192x192.png
+    └── web-app-manifest-512x512.png
 ```
