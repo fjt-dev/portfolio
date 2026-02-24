@@ -9,7 +9,7 @@ https://fjtd.dev
 
 ## Technical Stack
 
-### Frame work
+### Framework
 
 - Next.js 16
 - React 19
@@ -23,22 +23,22 @@ https://fjtd.dev
 - Tailwind CSS 4
 - shadcn/ui (http://ui.shadcn.com/)
 
-### logo(icon)
+### Icons
 
 - Lucide (https://lucide.dev/)
 - Simple Icons (https://simpleicons.org/)
 
-### infrastructure
+### Infrastructure
 
-- Vercel
-- Cloudflare
+- Vercel (Hosting)
+- Cloudflare (DNS)
 
 ## File structure
 
 ```
 portfolio/
 ├── app/
-│   ├── global.css
+│   ├── globals.css
 │   ├── layout.tsx
 │   └── page.tsx
 ├── components/
