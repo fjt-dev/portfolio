@@ -12,7 +12,7 @@ export default function SocialLinks() {
         </a>
       </Button>
       <Button variant="outline" asChild className='w-full sm:w-fit min-w-0'>
-        <a href="https://twitter.com/iQV5K">
+        <a href="https://twitter.com/">
           <Twitter className="w-5 h-5" />
           Twitter
         </a>
