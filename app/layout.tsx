@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   twitter: {
     title: 'fjtd.dev',
     description: 'Student | Aspiring Web Frontend Engineer',
-    creator: '@iQV5K'
+    creator: '@fjtd_dev'
   }
 };
 
